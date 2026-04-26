@@ -34,24 +34,31 @@ motto:   "Code it. Break it. Fix it. Repeat."
 
 ### 🌸 My Toolkit
 
-**🖥️ Backend Development**
+### 🛠️ Tech Stack
 
-![Node.js](https://img.shields.io/badge/Node.js-3d2b1f?style=for-the-badge&logo=node.js&logoColor=a8c5a0)
-![Express.js](https://img.shields.io/badge/Express.js-3d2b1f?style=for-the-badge&logo=express&logoColor=c9b8d4)
-![Django](https://img.shields.io/badge/Django-3d2b1f?style=for-the-badge&logo=django&logoColor=a8c5a0)
+<div align="center">
 
-**☁️ Deployment**
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Django](https://skillicons.dev/icons?i=django)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Figma](https://skillicons.dev/icons?i=figma)
+![Canva](https://skillicons.dev/icons?i=canva)
+![WordPress](https://skillicons.dev/icons?i=wordpress)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
 
-![Vercel](https://img.shields.io/badge/Vercel-4a3728?style=for-the-badge&logo=vercel&logoColor=c9b8d4)
-![Render](https://img.shields.io/badge/Render-4a3728?style=for-the-badge&logo=render&logoColor=a8c5a0)
-![PostgreSQL](https://img.shields.io/badge/Neon_PostgreSQL-4a3728?style=for-the-badge&logo=postgresql&logoColor=c9b8d4)
+</div>
 
-**🎨 Design & CMS**
+<div align="center">
 
-![Figma](https://img.shields.io/badge/Figma-5c3d2e?style=for-the-badge&logo=figma&logoColor=e8c9d0)
-![Canva](https://img.shields.io/badge/Canva-5c3d2e?style=for-the-badge&logo=canva&logoColor=a8c5a0)
-![WordPress](https://img.shields.io/badge/WordPress-5c3d2e?style=for-the-badge&logo=wordpress&logoColor=c9b8d4)
-![Wix](https://img.shields.io/badge/Wix-5c3d2e?style=for-the-badge&logo=wix&logoColor=e8c9d0)
+**Current Focus:** Completing my 300-hour OJT requirement as a CS student at USTP.
+**Home Base:** Cagayan de Oro, PH — open to on-site internships in the CDO area.
+
+</div>
 
 ---
 
