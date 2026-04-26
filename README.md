@@ -1,11 +1,9 @@
 <div align="center">
 
-| 👩‍💻 | Janelle B. Silmaro |
-|---|---|
-| 🎓 | BS Computer Science @ USTP |
-| 📍 | Cagayan de Oro, PH |
-| 🎯 | Seeking OJT · On-site · CDO |
-| 💬 | *"Code it. Break it. Fix it. Repeat."* |
+# 👾 Janelle B. Silmaro
+### CS Student & Aspiring Developer
+
+🎓 USTP · Cagayan de Oro &nbsp;|&nbsp; 🔍 Seeking OJT (On-site · CDO) &nbsp;|&nbsp; 💬 *"Code it. Break it. Fix it. Repeat."*
 
 </div>
 
