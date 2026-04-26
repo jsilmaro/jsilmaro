@@ -1,14 +1,11 @@
 <div align="center">
 
-```typescript
-const janelle = {
-  name: "Janelle B. Silmaro",
-  role: "CS Student & Aspiring Developer",
-  school: "USTP - Cagayan de Oro",
-  status: "🔍 Seeking OJT | On-site | CDO",
-  motto: "Code it. Break it. Fix it. Repeat."
-};
-```
+| 👩‍💻 | Janelle B. Silmaro |
+|---|---|
+| 🎓 | BS Computer Science @ USTP |
+| 📍 | Cagayan de Oro, PH |
+| 🎯 | Seeking OJT · On-site · CDO |
+| 💬 | *"Code it. Break it. Fix it. Repeat."* |
 
 </div>
 
